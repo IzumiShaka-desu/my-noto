@@ -13,7 +13,6 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 import TextareaAutosize from '@mui/base/TextareaAutosize';
-import MultilineInput from "../components/MultilineInput";
 
 export default function HomePage() {
     const [notes, setNotes] = useState([]);
